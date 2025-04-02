@@ -1,4 +1,4 @@
-# Skill India Website
+# Skill India Website Demo
 
 ## 📌 Project Overview
 This is a **Skill India Website** project aimed at providing skill development resources and opportunities. The website includes various sections related to different industries and training programs.
