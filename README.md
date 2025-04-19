@@ -8,8 +8,8 @@ Check out the live version of this project here:
 [Skill India Website](https://anuragag26.github.io/Skill-India-Website-demo/)
 
 ## Contributors
-Vaibhav5860 Vaibhav Raj
-anuragag26 Anurag Agrawal
+Vaibhav5860 Vaibhav Raj.
+anuragag26 Anurag Agrawal.
 
 ## remember
 this is demo/clone project of Skill india website
